@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329110152786",
+    "project_id": "weddingplan-5c228",
+    "storage_bucket": "weddingplan-5c228.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329110152786:android:e4361fa476c963902fa18b",
+        "android_client_info": {
+          "package_name": "com.convergeInnov.weddingplan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvygc2ZL87QzCahHiXfAfmwMKFvkdobUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
